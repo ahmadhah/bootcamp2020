@@ -1,2 +1,2 @@
 # bootcamp2020
-Basic WEb for bootcamp practice
+Basic web for bootcamp practice
